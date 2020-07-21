@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Ecommerce SushiYa](https://github.com/Adrian-M-A/frontendEcommerce.git)
 
-- I'm currently studying on [MEAN & MERN](Bootcamp Full stack developer in GeeksHubs academy)
+- I'm currently studying [MEAN & MERN](Bootcamp Full stack developer in GeeksHubs academy)
 
 - 👨‍💻 All of my projects are available at [Here, Github](Here, Github)
 
