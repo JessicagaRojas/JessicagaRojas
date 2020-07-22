@@ -6,7 +6,7 @@
 
 - I'm currently studying [MEAN & MERN](Bootcamp Full stack developer in GeeksHubs academy)
 
-- 👨‍💻 All of my projects are available at [Here, Github](Here, Github)
+- 👨‍💻 All of my projects are available at [Here, Github] or https://www.linkedin.com/in/jessicarojasjess/
 
 - 📫 How to reach me **jessicagarojas@gmail.com**
 
