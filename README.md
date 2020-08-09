@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Spain. I'm Photographer too :D</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicagarojas" alt="jessicagarojas" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce SushiYa](https://github.com/Adrian-M-A/frontendEcommerce.git)
+- 🔭 I’m currently working on [Ecommerce SushiYa](https://github.com/Adrian-M-A/frontendEcommerce.git) MERN
 
 - I'm currently studying [MEAN & MERN](Bootcamp Full stack developer in GeeksHubs academy)
 
