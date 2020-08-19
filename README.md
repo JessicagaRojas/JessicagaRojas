@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **jessicagarojas@gmail.com**
 
+<p align="center"> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angularjs" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="bootstrap" width="20" height="20"/> 
