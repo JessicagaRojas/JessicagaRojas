@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jess !</h1>
-<h3 align="center">A full stack developer from Spain. I'm Photographer too :D</h3>
+<h3 align="center">A full stack developer from Spain.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicagarojas" alt="jessicagarojas" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce SushiYa](https://github.com/Adrian-M-A/frontendEcommerce.git) MERN
+- 🔭 I’m currently working on "NexoTelecom" with MEAN, as front-end developer.
 
-- I'm currently studying in (Bootcamp Full stack developer in GeeksHubs academy)
+- Learning and working about UX/UI 
+
 
 - 👨‍💻 All of my projects are available at [Here, Github] or https://www.linkedin.com/in/jessicarojasjess/
 
