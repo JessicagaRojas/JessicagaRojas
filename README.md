@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jess !</h1>
-<h3 align="center">A full stack developer from Spain.</h3>
+<h3 align="center">A Front -end developer from Spain.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicagarojas" alt="jessicagarojas" /> </p>
 
 - 🔭 I’m currently working on "NexoTelecom" with MEAN, as front-end developer.
